@@ -6,7 +6,7 @@ The repository contains the code for the demoscene series for Linux Format.
 
 **Part 2**: The elementary fire routine, a bit more complex fire routine, and some galaxyan scroll.
 
-After clone please run:
+**Part 3**: Rotozoom, mandelbrot drawing and tunnel effect.
 
 ```bash
 git submodule update --init --recursive
