@@ -8,6 +8,10 @@ The repository contains the code for the demoscene series for Linux Format.
 
 **Part 3**: Rotozoom, mandelbrot drawing and tunnel effect.
 
+**Part 4**: Water and rain effects.
+
+After clone please run:
+
 ```bash
 git submodule update --init --recursive
 ```
